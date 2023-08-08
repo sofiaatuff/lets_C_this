@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/STUFF/Library/CloudStorage/Dropbox/Mac (2)/Desktop/GitHub/C_stuff/lets_C_this",
+      "program": "/Users/STUFF/Library/CloudStorage/Dropbox/Mac (2)/Desktop/GitHub/C_stuff/lets_C_this/build/Debug/outDebug"
+    }
+  ]
+}
